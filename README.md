@@ -2,6 +2,10 @@
 An Application for Efficient University Event Management
 This abstract proposes the development of a mobile application designed to streamline the management and participation in university events. The application targets both students and event organizers, providing a user-friendly platform for event discovery, registration, and feedback.
 
+Click on the Image to see the demo !
+
+[![Alt text](video-images/Youtube-image.PNG)](https://youtu.be/U6O5TqhI6Ms?si=UggHjA635IhepVwF)
+
 # Key features:
 
 - Students:
@@ -57,7 +61,5 @@ Explore upcoming events, learn more, and easily to signup.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-# University-Events Video
 
-[![Alt text](video-images/Youtube-image.PNG)](https://youtu.be/U6O5TqhI6Ms?si=UggHjA635IhepVwF)
 
