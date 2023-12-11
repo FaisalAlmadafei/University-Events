@@ -57,7 +57,7 @@ Explore upcoming events, learn more, and easily to signup.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-# University-Events
+# University-Events Video
 
 [![Alt text](video-images/Youtube-image.PNG)](https://youtu.be/U6O5TqhI6Ms?si=UggHjA635IhepVwF)
 
